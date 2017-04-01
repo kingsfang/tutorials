@@ -1,0 +1,2 @@
+redirect page
+${att1!}
