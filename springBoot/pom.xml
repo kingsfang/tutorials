@@ -13,7 +13,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring-web</module>
-        <module>spring-aop</module>
+        <module>springboot-aop</module>
+        <module>springBoot-schedule</module>
     </modules>
 
     <properties>
@@ -36,6 +37,7 @@
                 <scope>import</scope>
             </dependency>
             <!-- Spring boot parent end -->
+
 
         </dependencies>
 
